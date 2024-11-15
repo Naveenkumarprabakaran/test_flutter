@@ -28491,7 +28491,7 @@ r=s==null?null:s.content
 s=r==null
 if(!s)self.window.console.warn("The `assetBase` meta tag is now deprecated.\nUse engineInitializer.initializeEngine(config) instead.\nSee: https://docs.flutter.dev/development/platform-integration/web/initialization")
 q=this.b=s?"":r
-s=q}return A.Gm(B.f5,s+"assets/"+a,B.J,!1)}}
+s=q}return A.Gm(B.f5,s+"test_flutter/assets/"+a,B.J,!1)}}
 A.nO.prototype={
 E(){return"BrowserEngine."+this.b}}
 A.hc.prototype={
